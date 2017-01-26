@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ECF49A57C999781F0303C97E2E62D91D1B0F5516",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "235C1C3AD282EE4F5948BF411F3E8CF30A0EC7BE" : 9223372036854775807,
+    "ECF49A57C999781F0303C97E2E62D91D1B0F5516" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F04356B6-D08D-4B95-B094-F564250BA786",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "235C1C3AD282EE4F5948BF411F3E8CF30A0EC7BE" : "Move\/Move\/Move\/",
+    "ECF49A57C999781F0303C97E2E62D91D1B0F5516" : "Move\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Move",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Move\/Move.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Rajnm\/Move.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "235C1C3AD282EE4F5948BF411F3E8CF30A0EC7BE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rajnm\/moveapp",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ECF49A57C999781F0303C97E2E62D91D1B0F5516"
+    }
+  ]
+}
